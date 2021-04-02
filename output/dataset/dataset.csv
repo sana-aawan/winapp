@@ -1,0 +1,99 @@
+,ChildId,DefaultAction,Description,Help,KeyboardShortcut,Name,Role,State,Value,levelId
+0,0,ShowMenu,,,,Media Alt+M,12,128,,key_0
+1,0,Press,,,,Open File... Ctrl+O,12,128,,key_0_0
+2,0,Press,,,,Open Multiple Files... Ctrl+Shift+O,12,128,,key_0_1
+3,0,Press,,,,Open Folder... Ctrl+F,12,128,,key_0_2
+4,0,Press,,,,Open Disc... Ctrl+D,12,128,,key_0_3
+5,0,Press,,,,Open Network Stream... Ctrl+N,12,128,,key_0_4
+6,0,Press,,,,Open Capture Device... Ctrl+C,12,128,,key_0_5
+7,0,Press,,,,Open Location from clipboard Ctrl+V,12,128,,key_0_6
+8,0,ShowMenu,,,,Open Recent Media Alt+R,12,128,,key_0_7
+9,0,,,,,,21,129,,key_0_8
+10,0,Press,,,,Save Playlist to File... Ctrl+Y,12,128,,key_0_9
+11,0,Press,,,,Convert / Save... Ctrl+R,12,128,,key_0_10
+12,0,Press,,,,Stream... Ctrl+S,12,128,,key_0_11
+13,0,,,,,,21,129,,key_0_12
+14,0,Press,,,,Quit at the end of playlist,12,144,,key_0_13
+15,0,Press,,,,Quit Ctrl+Q,12,128,,key_0_14
+16,0,ShowMenu,,,,Playback Alt+l,12,128,,key_1
+17,0,ShowMenu,,,,Title Alt+i,12,129,,key_1_0
+18,0,ShowMenu,,,,Chapter Alt+C,12,129,,key_1_1
+19,0,ShowMenu,,,,Program Alt+P,12,129,,key_1_2
+20,0,ShowMenu,,,,Custom Bookmarks Alt+B,12,129,,key_1_3
+21,0,,,,,,21,129,,key_1_4
+22,0,ShowMenu,,,,Renderer Alt+R,12,128,,key_1_5
+23,0,,,,,,21,129,,key_1_6
+24,0,ShowMenu,,,,Speed Alt+e,12,129,,key_1_7
+25,0,,,,,,21,129,,key_1_8
+26,0,Press,,,,Jump Forward Alt+J,12,129,,key_1_9
+27,0,Press,,,,Jump Backward Alt+k,12,129,,key_1_10
+28,0,Press,,,,Jump to Specific Time Ctrl+T,12,128,,key_1_11
+29,0,,,,,,21,129,,key_1_12
+30,0,,,,,,21,129,,key_1_13
+31,0,Press,,,,Play Alt+P,12,128,,key_1_14
+32,0,Press,,,,Stop Alt+S,12,129,,key_1_15
+33,0,Press,,,,Previous Alt+v,12,129,,key_1_16
+34,0,Press,,,,Next Alt+x,12,129,,key_1_17
+35,0,Press,,,,Record,12,129,,key_1_18
+36,0,,,,,,21,129,,key_1_19
+37,0,ShowMenu,,,,Audio Alt+A,12,128,,key_2
+38,0,ShowMenu,,,,Audio Track Alt+T,12,129,,key_2_0
+39,0,ShowMenu,,,,Audio Device Alt+D,12,128,,key_2_1
+40,0,ShowMenu,,,,Stereo Mode Alt+S,12,129,,key_2_2
+41,0,,,,,,21,129,,key_2_3
+42,0,ShowMenu,,,,Visualizations Alt+V,12,129,,key_2_4
+43,0,,,,,,21,129,,key_2_5
+44,0,Press,,,,Increase Volume Alt+I,12,128,,key_2_6
+45,0,Press,,,,Decrease Volume Alt+e,12,128,,key_2_7
+46,0,Press,,,,Mute Alt+M,12,128,,key_2_8
+47,0,ShowMenu,,,,Video Alt+V,12,128,,key_3
+48,0,ShowMenu,,,,Video Track Alt+T,12,129,,key_3_0
+49,0,,,,,,21,129,,key_3_1
+50,0,Press,,,,Fullscreen Alt+F,12,128,,key_3_2
+51,0,Press,,,,Always Fit Window Alt+W,12,129,,key_3_3
+52,0,Press,,,,Set as Wallpaper Alt+p,12,128,,key_3_4
+53,0,,,,,,21,129,,key_3_5
+54,0,ShowMenu,,,,Zoom Alt+Z,12,129,,key_3_6
+55,0,ShowMenu,,,,Aspect Ratio Alt+A,12,129,,key_3_7
+56,0,ShowMenu,,,,Crop Alt+C,12,129,,key_3_8
+57,0,,,,,,21,129,,key_3_9
+58,0,ShowMenu,,,,Deinterlace Alt+D,12,129,,key_3_10
+59,0,ShowMenu,,,,Deinterlace mode Alt+D,12,129,,key_3_11
+60,0,,,,,,21,129,,key_3_12
+61,0,Press,,,,Take Snapshot Alt+S,12,129,,key_3_13
+62,0,ShowMenu,,,,Subtitle Alt+t,12,128,,key_4
+63,0,Press,,,,Add Subtitle File... Alt+S,12,128,,key_4_0
+64,0,ShowMenu,,,,Sub Track Alt+T,12,129,,key_4_1
+65,0,,,,,,21,129,,key_4_2
+66,0,ShowMenu,,,,Tools Alt+s,12,128,,key_5
+67,0,Press,,,,Effects and Filters Ctrl+E,12,128,,key_5_0
+68,0,Press,,,,Track Synchronization Alt+T,12,128,,key_5_1
+69,0,Press,,,,Media Information Ctrl+I,12,128,,key_5_2
+70,0,Press,,,,Codec Information Ctrl+J,12,128,,key_5_3
+71,0,Press,,,,VLM Configuration Ctrl+Shift+W,12,128,,key_5_4
+72,0,Press,,,,Program Guide,12,128,,key_5_5
+73,0,Press,,,,Messages Ctrl+M,12,128,,key_5_6
+74,0,Press,,,,Plugins and extensions Alt+g,12,128,,key_5_7
+75,0,,,,,,21,129,,key_5_8
+76,0,Press,,,,Customize Interface... Alt+z,12,128,,key_5_9
+77,0,Press,,,,Preferences Ctrl+P,12,128,,key_5_10
+78,0,ShowMenu,,,,View Alt+i,12,128,,key_6
+79,0,Press,,,,Playlist Ctrl+L,12,128,,key_6_0
+80,0,Press,,,,Docked Playlist,12,144,,key_6_1
+81,0,,,,,,21,129,,key_6_2
+82,0,Press,,,,Always on top Alt+t,12,128,,key_6_3
+83,0,,,,,,21,129,,key_6_4
+84,0,Press,,,,Minimal Interface Ctrl+H,12,128,,key_6_5
+85,0,Press,,,,Fullscreen Interface F11,12,128,,key_6_6
+86,0,Press,,,,Advanced Controls Alt+A,12,128,,key_6_7
+87,0,Press,,,,Status Bar,12,128,,key_6_8
+88,0,,,,,,21,129,,key_6_9
+89,0,ShowMenu,,,,Add Interface,12,128,,key_6_10
+90,0,,,,,,21,129,,key_6_11
+91,0,,,,,,21,129,,key_6_12
+92,0,Press,,,,VLsub,12,128,,key_6_13
+93,0,ShowMenu,,,,Help Alt+H,12,128,,key_7
+94,0,Press,,,,Help F1,12,128,,key_7_0
+95,0,Press,,,,Check for Updates... Alt+U,12,128,,key_7_1
+96,0,,,,,,21,129,,key_7_2
+97,0,Press,,,,About Shift+F1,12,128,,key_7_3

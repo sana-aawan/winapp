@@ -1,0 +1,131 @@
+Control Identifiers:
+
+Dialog - 'VLC media player'    (L0, T0, R1938, B1048)
+['Dialog', 'VLC media playerDialog', 'VLC media player']
+child_window(title="VLC media player", control_type="Window")
+   | 
+   | TitleBar - ''    (L29, T3, R1929, B38)
+   | ['TitleBar']
+   |    | 
+   |    | Menu - 'System'    (L9, T9, R37, B37)
+   |    | ['System', 'SystemMenu', 'Menu', 'System0', 'System1', 'Menu0', 'Menu1']
+   |    | child_window(title="System", auto_id="MenuBar", control_type="MenuBar")
+   |    |    | 
+   |    |    | MenuItem - 'System'    (L9, T9, R37, B37)
+   |    |    | ['System2', 'MenuItem', 'SystemMenuItem', 'MenuItem0', 'MenuItem1']
+   |    |    | child_window(title="System", control_type="MenuItem")
+   |    | 
+   |    | Button - 'Minimize'    (L1751, T1, R1811, B38)
+   |    | ['MinimizeButton', 'Button', 'Minimize', 'Button0', 'Button1']
+   |    | child_window(title="Minimize", control_type="Button")
+   |    | 
+   |    | Button - 'Maximize'    (L1811, T1, R1870, B38)
+   |    | ['MaximizeButton', 'Maximize', 'Button2']
+   |    | child_window(title="Maximize", control_type="Button")
+   |    | 
+   |    | Button - 'Close'    (L1870, T1, R1930, B38)
+   |    | ['Button3', 'CloseButton', 'Close']
+   |    | child_window(title="Close", control_type="Button")
+   | 
+   | Menu - ''    (L9, T38, R1929, B64)
+   | ['Menu2']
+   |    | 
+   |    | MenuItem - 'Media Alt+M'    (L9, T38, R67, B63)
+   |    | ['Media Alt+M', 'MenuItem2', 'Media Alt+MMenuItem']
+   |    | child_window(title="Media Alt+M", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Playback Alt+l'    (L67, T38, R141, B63)
+   |    | ['Playback Alt+l', 'MenuItem3', 'Playback Alt+lMenuItem']
+   |    | child_window(title="Playback Alt+l", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Audio Alt+A'    (L141, T38, R197, B63)
+   |    | ['Audio Alt+AMenuItem', 'Audio Alt+A', 'MenuItem4']
+   |    | child_window(title="Audio Alt+A", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Video Alt+V'    (L197, T38, R252, B63)
+   |    | ['Video Alt+V', 'MenuItem5', 'Video Alt+VMenuItem']
+   |    | child_window(title="Video Alt+V", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Subtitle Alt+t'    (L252, T38, R319, B63)
+   |    | ['Subtitle Alt+t', 'MenuItem6', 'Subtitle Alt+tMenuItem']
+   |    | child_window(title="Subtitle Alt+t", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Tools Alt+s'    (L319, T38, R370, B63)
+   |    | ['MenuItem7', 'Tools Alt+s', 'Tools Alt+sMenuItem']
+   |    | child_window(title="Tools Alt+s", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'View Alt+i'    (L370, T38, R418, B63)
+   |    | ['View Alt+iMenuItem', 'View Alt+i', 'MenuItem8']
+   |    | child_window(title="View Alt+i", control_type="MenuItem")
+   |    | 
+   |    | MenuItem - 'Help Alt+H'    (L418, T38, R466, B63)
+   |    | ['Help Alt+HMenuItem', 'Help Alt+H', 'MenuItem9']
+   |    | child_window(title="Help Alt+H", control_type="MenuItem")
+   | 
+   | Custom - ''    (L9, T64, R1929, B1039)
+   | [' --:-- Custom', 'Custom', 'Custom0', 'Custom1', ' --:-- Custom0', ' --:-- Custom1']
+   |    | 
+   |    | Pane - ''    (L9, T64, R1929, B987)
+   |    | ['Pane']
+   |    |    | 
+   |    |    | Custom - ''    (L9, T64, R1929, B987)
+   |    |    | ['Custom2']
+   |    | 
+   |    | Custom - ''    (L9, T987, R1929, B1005)
+   |    | [' --:-- Custom2', 'Custom3']
+   |    |    | 
+   |    |    | Static - ' --:-- '    (L9, T987, R56, B1005)
+   |    |    | ['Static', ' --:-- Static', ' --:-- ', 'Static0', 'Static1', ' --:-- Static0', ' --:-- Static1', ' --:-- 0', ' --:-- 1']
+   |    |    | child_window(title=" --:-- ", control_type="Text")
+   |    |    | 
+   |    |    | Slider - ''    (L56, T987, R1882, B1005)
+   |    |    | [' --:-- Slider', 'Slider', ' --:-- Slider0', ' --:-- Slider1', 'Slider0', 'Slider1']
+   |    |    | 
+   |    |    | Static - ' --:-- '    (L1882, T987, R1929, B1005)
+   |    |    | ['Static2', ' --:-- Static2', ' --:-- 2']
+   |    |    | child_window(title=" --:-- ", control_type="Text")
+   |    | 
+   |    | Custom - ''    (L9, T1005, R1929, B1039)
+   |    | [' --:-- Custom3', 'Custom4']
+   |    |    | 
+   |    |    | Custom - ''    (L0, T0, R0, B0)
+   |    |    | ['Custom5']
+   |    |    | 
+   |    |    | Custom - ''    (L1815, T1006, R1916, B1038)
+   |    |    | [' --:-- Custom4', 'Custom6']
+   |    |    |    | 
+   |    |    |    | Image - ''    (L1815, T1022, R1831, B1038)
+   |    |    |    | ['Image']
+   |    |    |    | 
+   |    |    |    | Slider - ''    (L1831, T1012, R1916, B1038)
+   |    |    |    | [' --:-- Slider2', 'Slider2']
+   |    |    | 
+   |    |    | Thumb - ''    (L1916, T1025, R1929, B1038)
+   |    |    | ['Thumb', ' --:-- Thumb']
+   |    |    | 
+   |    |    | Button - ''    (L12, T1006, R44, B1038)
+   |    |    | [' --:-- Button', 'Button4', ' --:-- Button0', ' --:-- Button1']
+   |    |    | 
+   |    |    | Button - ''    (L56, T1009, R82, B1035)
+   |    |    | [' --:-- Button2', 'Button5']
+   |    |    | 
+   |    |    | Button - ''    (L82, T1009, R108, B1035)
+   |    |    | [' --:-- Button3', 'Button6']
+   |    |    | 
+   |    |    | Button - ''    (L108, T1009, R134, B1035)
+   |    |    | [' --:-- Button4', 'Button7']
+   |    |    | 
+   |    |    | Button - ''    (L146, T1009, R172, B1035)
+   |    |    | [' --:-- Button5', 'Button8']
+   |    |    | 
+   |    |    | Button - ''    (L172, T1009, R198, B1035)
+   |    |    | [' --:-- Button6', 'Button9']
+   |    |    | 
+   |    |    | Button - ''    (L210, T1009, R236, B1035)
+   |    |    | [' --:-- Button7', 'Button10']
+   |    |    | 
+   |    |    | CheckBox - ''    (L236, T1009, R262, B1035)
+   |    |    | ['CheckBox', ' --:-- CheckBox', 'CheckBox0', 'CheckBox1', ' --:-- CheckBox0', ' --:-- CheckBox1']
+   |    |    | 
+   |    |    | CheckBox - ''    (L262, T1009, R288, B1035)
+   |    |    | ['CheckBox2', ' --:-- CheckBox2']
